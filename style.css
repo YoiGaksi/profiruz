@@ -1,0 +1,56 @@
+body{
+	background-color: black;
+	margin: 100px;
+	padding: 0px;
+	position: cover, auto;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+	color: darkgoldenrod;
+	display: inline-flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	background-color: transparent;
+	border-radius: 2rem;
+}
+h2{
+	margin-right: 400px;
+}
+nav button{
+	cursor: pointer;
+	border: none;
+	font-size: 1rem;
+  background-color: transparent;
+
+}
+a {
+
+  display: block;
+  color: darkgoldenrod;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+a:hover {
+  background-color: #E8D86D;
+  color: goldenrod;
+}
+.utama {
+	background-color: transparent;
+	width: 100%;
+}
+.at{
+	text-align: center;
+	padding-top: 100px;
+}
+main img{
+	align-items: center;
+	position: center;
+	}
+main article{
+	color: darkgoldenrod;
+	position: relative;
+}
